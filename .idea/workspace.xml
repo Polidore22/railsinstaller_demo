@@ -46,19 +46,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="3" selection-start="55" selection-end="56" vertical-scroll-proportion="-1.72">
+            <state line="7" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="0.19286872">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile.lock" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="Gemfile.lock" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="70" column="24" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.33333334">
+            <state line="79" column="18" selection-start="1885" selection-end="1885" vertical-scroll-proportion="-14.52">
               <folding />
             </state>
           </provider>
@@ -77,8 +77,8 @@
         <option value="$PROJECT_DIR$/app/controllers/welcome_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -432,16 +432,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="3" selection-start="55" selection-end="56" vertical-scroll-proportion="-1.72">
+        <state line="79" column="18" selection-start="1885" selection-end="1885" vertical-scroll-proportion="-14.52">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+    <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="24" selection-start="1671" selection-end="1671" vertical-scroll-proportion="0.33333334">
+        <state line="7" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="0.19286872">
           <folding />
         </state>
       </provider>
